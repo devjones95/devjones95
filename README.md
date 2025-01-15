@@ -7,6 +7,8 @@
 
 ![DevJones95's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjones95&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjones95&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ### Algumas das principais tecnologias do meu dia-a-dia:
 
