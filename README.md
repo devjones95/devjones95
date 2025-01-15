@@ -48,6 +48,8 @@ Atualmente, trabalho na área de BI, em um time de engenharia de dados de uma gr
 Hoje, voltei minha atenção totalmente em SQL, Python e Google Cloud Platform, para criar automações dentro do nosso banco de dados, a fim de tratar, extrair e manipular da melhor forma possível, os dados que temos das APIs de mídia como Meta, TikTok e Google, e assim, gerarmos os insights necessários para melhores tomadas de decisões em conjunto com nossos amigos do time de mídia.
 <hr>
 
+<img src="https://github-profile-trophy.vercel.app/?username=devjones95&theme=juicyfresh&no-bg=true" />
+
 
 
 
