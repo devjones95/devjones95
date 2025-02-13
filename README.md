@@ -46,6 +46,8 @@ Atualmente, trabalho com Business Intelligence (BI) como parte do time de Engenh
 <br>
 Estou em transição para a área de desenvolvimento Full Stack, com foco nas tecnologias React e Node.js, motivado pela minha paixão em criar soluções que impactem diretamente as pessoas. Acredito que a experiência adquirida em dados, especialmente em programação, bancos de dados e soft skills como trabalho em equipe e pensamento analítico, complementa perfeitamente o desenvolvimento de software. Para mim, uma área fortalece a outra.
 <br>
+<br>
+<hr>
 <img src="https://github-profile-trophy.vercel.app/?username=devjones95&theme=juicyfresh&no-bg=true" />
 
 
