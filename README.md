@@ -40,16 +40,12 @@
 <br>
 
 ### Sobre mim
-Minha paixão por tecnologia vai muito além de ser um simples usuário de celular ou computador no dia a dia. Eu acredito fortemente que a tecnologia pode transformar realidades, mudar mentalidades e alcançar coisas inimagináveis. Mas, mais do que isso, meu sonho é ajudar o maior número possível de pessoas através da tecnologia, conectar sonhos e ajudar pessoas.
-Estudando intensamente e diariamente na área de Data Analytics e Engenharia de Dados, utilizando ferramentas como SQL, Power BI, Python, Machine Learning, Google Analytics entre outras ferramentas de modelagem, extração e manipulação de dados.
+Apaixonado por tecnologia, acredito que ela tem o poder de transformar realidades, mudar mentalidades e alcançar o inimaginável. Meu maior sonho é usar a tecnologia para conectar pessoas e impactar positivamente o maior número de vidas possível.
 <br>
+Atualmente, trabalho com Business Intelligence (BI) como parte do time de Engenharia de Dados em uma grande Agência de Publicidade e Propaganda, tendo a oportunidade de colaborar com marcas globais como Coca-Cola, Samsung, Melitta, Softys, Volvo, BMW, Visa, entre outras.
 <br>
-Atualmente, trabalho na área de BI, em um time de engenharia de dados de uma grande Agência de Publicidade e Propaganda, atendendo várias contas como Coca-Cola, Samsung, Melitta, Softys, Volvo, BMW, Visa entre outros.
+Estou em transição para a área de desenvolvimento Full Stack, com foco nas tecnologias React e Node.js, motivado pela minha paixão em criar soluções que impactem diretamente as pessoas. Acredito que a experiência adquirida em dados, especialmente em programação, bancos de dados e soft skills como trabalho em equipe e pensamento analítico, complementa perfeitamente o desenvolvimento de software. Para mim, uma área fortalece a outra.
 <br>
-<br>
-Hoje, voltei minha atenção totalmente em SQL, Python e Google Cloud Platform, para criar automações dentro do nosso banco de dados, a fim de tratar, extrair e manipular da melhor forma possível, os dados que temos das APIs de mídia como Meta, TikTok e Google, e assim, gerarmos os insights necessários para melhores tomadas de decisões em conjunto com nossos amigos do time de mídia.
-<hr>
-
 <img src="https://github-profile-trophy.vercel.app/?username=devjones95&theme=juicyfresh&no-bg=true" />
 
 
