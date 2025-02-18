@@ -25,7 +25,7 @@
 </div>
 <br>
 
-### Além de:
+### In addition to:
 <ul>
     <li>Power BI</li>
     <li>Google Looker Studio</li>
