@@ -49,7 +49,6 @@ On a daily basis, I am responsible for supporting the BI and media teams, addres
 I am always looking to enhance my skills and learn new technologies to provide even more innovative and efficient solutions.
 <br>
 <hr>
-<img src="https://github-profile-trophy.vercel.app/?username=devjones95&theme=juicyfresh&no-bg=true" />
 
 
 
