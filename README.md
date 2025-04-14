@@ -14,9 +14,9 @@
 
 <div style="display: inline-block"><br>
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
     <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,18 +38,20 @@
 <br>
 
 ### About me
-Passionate about technology, I believe in its power to transform realities and positively impact lives. My greatest goal is to use technology to connect people and make a meaningful impact on as many lives as possible.
+I am passionate about technology and data, and I am currently undergoing a strategic transition to fullstack development, focusing on React for front-end and Node.js for back-end. My experience as a Data Analytics intern has provided me with a solid foundation to work with large volumes of data and extract valuable insights to optimize business strategies.
 <br>
-Currently, I work with Business Intelligence (BI) in the Data Engineering team at a large advertising agency, collaborating with global brands such as Coca-Cola, Samsung, Melitta, Softys, Volvo, BMW, Visa, among others.
+Now, I am complementing my skills with the learning of web development technologies to build more complete and scalable solutions. I believe that my journey in data and performance analysis gives me a unique perspective to understand the logic and structure behind applications, which, combined with development, allows me to create more efficient and results-oriented systems.
 <br>
-On a daily basis, I am responsible for supporting the BI and media teams, addressing various challenges and needs. We use technologies such as Python, SQL, Looker Studio, and the GCP platform to house our Data Lake and Data Warehouse. With Python, in addition to data transformation, I also develop automations to optimize BI processes. We use SQL, through BigQuery, to extract, manipulate, and transform data from Google Analytics, external APIs, and social media platforms like TikTok, Meta, and Pinterest. With the processed data, we identify valuable insights, which are then consolidated and presented in dashboards on Google Looker Studio.
-<br>
-<br>
-<br>
-I am always looking to enhance my skills and learn new technologies to provide even more innovative and efficient solutions.
-<br>
-<hr>
+Core Competencies:
 
+Front-End: React, HTML, CSS, JavaScript
+Back-End: Node.js, Express
+Databases: MySQL, MongoDB
+Data Analysis: Python, GCP
+Others: Git, RESTful APIs, Agile Development
+<br>
+I am always seeking new challenges that allow me to apply my data skills in the development of innovative and practical solutions. If you are looking for someone who combines an analytical mindset with strong development capabilities, I am ready to contribute.
+<hr>
 
 
 
