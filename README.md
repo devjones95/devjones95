@@ -72,8 +72,8 @@ Data Analysys:
     <li>Python</li>
 </ul>
 <br>
-Others: Git, RESTful APIs, Agile Development
-<br>
+Others: Git, RESTful APIs, Agile Development<br>
+
 I am always seeking new challenges that allow me to apply my data skills in the development of innovative and practical solutions. If you are looking for someone who combines an analytical mindset with strong development capabilities, I am ready to contribute.
 <hr>
 
