@@ -38,8 +38,8 @@
 <br>
 
 ### About me
-I am passionate about technology and data, and I am currently undergoing a strategic transition to fullstack development, focusing on React for front-end and Node.js for back-end. My experience as a Data Analytics intern has provided me with a solid foundation to work with large volumes of data and extract valuable insights to optimize business strategies.
-<br>
+I am passionate about technology and data, and I am currently undergoing a strategic transition to fullstack development, focusing on React for front-end and Node.js for back-end. My experience as a Data Analytics intern has provided me with a solid foundation to work with large volumes of data and extract valuable insights to optimize business strategies.<br>
+
 Now, I am complementing my skills with the learning of web development technologies to build more complete and scalable solutions. I believe that my journey in data and performance analysis gives me a unique perspective to understand the logic and structure behind applications, which, combined with development, allows me to create more efficient and results-oriented systems.<br>
 
 Core Competencies:<br>
@@ -72,7 +72,8 @@ Data Analysys:
     <li>Python</li>
 </ul>
 <br>
-Others: Git, RESTful APIs, Agile Development<br>
+
+Others: Git, RESTful APIs, Agile Development <br>
 
 I am always seeking new challenges that allow me to apply my data skills in the development of innovative and practical solutions. If you are looking for someone who combines an analytical mindset with strong development capabilities, I am ready to contribute.
 <hr>
