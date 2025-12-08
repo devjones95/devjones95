@@ -1,82 +1,112 @@
-# Hello folks, welcome!  👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-assis-56350b17a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp_assiz/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/joni_bigu)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
-![DevJones95's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjones95&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjones95&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+.github/workflows
 
 
-### Some tecnologies used in my day at work:
+pacman.yml
 
-<div style="display: inline-block"><br>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white)">
-    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<h1 align="center">Hey 👋Wassap?</h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/joão-pedro-assis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jp_assiz/?next=%2Fjp_assiz%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
-<br>
 
-### In addition to:
-<ul>
-    <li>Power BI</li>
-    <li>Google Looker Studio</li>
-    <li>BigQuery</li>
-</ul>
+###
 
-<hr>
-<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+</div>
 
-### About me
-I am passionate about technology and data, and I am currently undergoing a strategic transition to fullstack development, focusing on React for front-end and Node.js for back-end. My experience as a Data Analytics intern has provided me with a solid foundation to work with large volumes of data and extract valuable insights to optimize business strategies.<br>
+###
 
-Now, I am complementing my skills with the learning of web development technologies to build more complete and scalable solutions. I believe that my journey in data and performance analysis gives me a unique perspective to understand the logic and structure behind applications, which, combined with development, allows me to create more efficient and results-oriented systems.<br>
+<h4 align="left">In addition to:<br>Power BI<br>Google Looker Studio<br>BigQuery</h4>
 
-Core Competencies:<br>
+###
 
-Front End:
-<ul>
-    <li>React</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Bootstrap</li>
-</ul>
-<br>
-Back End:
-<ul>
-    <li>NodeJs</li>
-    <li>Express</li>
-</ul>
-<br>
-Databases:
-<ul>
-    <li>Big Query (GCP)</li>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-</ul>
-<br>
-Data Analysys:
-<ul>
-    <li>GCP</li>
-    <li>Python</li>
-</ul>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjones95/devjones95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjones95/devjones95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devjones95/devjones95/output/pacman-contribution-graph.svg">
+</picture>
 
-Others: Git, RESTful APIs, Agile Development <br>
+###
 
-I am always seeking new challenges that allow me to apply my data skills in the development of innovative and practical solutions. If you are looking for someone who combines an analytical mindset with strong development capabilities, I am ready to contribute.
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devjones95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjones95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
 
 
+Boost Your English
+Real devs debug in English.
 
+💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
 
+👉 Get 70% OFF 👈
+
+Boost Your Dev Career
+Master one of the most sought-after technologies in the world!
+
+Become a Typescript Master
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
