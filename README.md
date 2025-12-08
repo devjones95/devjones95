@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devjones95/devjones95/output/snake.svg" alt="Snake animation" />
 
 ###
 
