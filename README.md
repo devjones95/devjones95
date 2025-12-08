@@ -1,31 +1,8 @@
-.github/workflows
-
-
-pacman.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="center">Hey 👋Wassap?</h1>
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/joão-pedro-assis" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jp_assiz/?next=%2Fjp_assiz%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<h3 align="left">Some technologies I’m digging into…</h3>
 
 ###
 
@@ -55,10 +32,6 @@ Fork on Github
 
 ###
 
-<h4 align="left">In addition to:<br>Power BI<br>Google Looker Studio<br>BigQuery</h4>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjones95/devjones95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjones95/devjones95/output/pacman-contribution-graph.svg">
@@ -67,46 +40,17 @@ Fork on Github
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjones95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjones95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<p align="center">I’m João Pedro — a Data Engineer who loves turning messy data into clean, scalable systems that actually move the needle for businesses.<br><br>I started out in Data Analytics, digging into datasets and learning how good insights can shape real decisions. That analytical view never left me — today it guides how I build every pipeline, from architecture to optimization.<br><br>At Lima Consulting Brasil, I work with Databricks, PySpark, SQL, and Python to develop and refine ETL pipelines, and use GCP (BigQuery, Cloud Functions, Cloud Storage, Pub/Sub) to run distributed workloads that are fast, reliable, and easy to maintain. My goal is always the same: build data platforms that scale without drama.<br><br>I partner closely with teams from different areas, helping create solid standards, reusable frameworks, and smarter automations inside consulting projects.<br><br>My current toolkit includes Python, Spark, SQL, Databricks, GCP, REST APIs, and BI tools like Looker Studio and Power BI.<br><br>Right now, I’m especially into event-driven architectures, orchestration, and cloud automation — always looking for ways to make data systems more resilient, more scalable, and more future-proof.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-assis/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jp_assiz/?next=%2Fjp_assiz%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
-Copy File Content
-Level Up Your README
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-
-
-Boost Your English
-Real devs debug in English.
-
-💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
-
-👉 Get 70% OFF 👈
-
-Boost Your Dev Career
-Master one of the most sought-after technologies in the world!
-
-Become a Typescript Master
-
-Clean Architecture
-Software Architecture Solutions from Uncle Bob.
-
-Get the book
-
-Explore More Books
-Browse the full list of curated titles to boost your coding skills.
-
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-Profile Readme Generator
