@@ -33,7 +33,21 @@
 
 ###
 
-<p align="center">I’m João Pedro — a Data Engineer who loves turning messy data into clean, scalable systems that actually move the needle for businesses.<br><br>I started out in Data Analytics, digging into datasets and learning how good insights can shape real decisions. That analytical view never left me — today it guides how I build every pipeline, from architecture to optimization.<br><br>At Lima Consulting Brasil, I work with Databricks, PySpark, SQL, and Python to develop and refine ETL pipelines, and use GCP (BigQuery, Cloud Functions, Cloud Storage, Pub/Sub) to run distributed workloads that are fast, reliable, and easy to maintain. My goal is always the same: build data platforms that scale without drama.<br><br>I partner closely with teams from different areas, helping create solid standards, reusable frameworks, and smarter automations inside consulting projects.<br><br>My current toolkit includes Python, Spark, SQL, Databricks, GCP, REST APIs, and BI tools like Looker Studio and Power BI.<br><br>Right now, I’m especially into event-driven architectures, orchestration, and cloud automation — always looking for ways to make data systems more resilient, more scalable, and more future-proof.</p>
+<p align="center">
+I’m João Pedro — a Data Engineer exploring the intersection of Data Engineering, Data Science, Machine Learning, and AI Engineering.<br><br>
+
+My focus is on building a strong foundation in modern AI systems, combining data processing, machine learning, cloud technologies, and generative AI to create scalable and production-ready solutions.<br><br>
+
+I’m currently studying and developing projects involving Python, SQL, PySpark, Databricks, and Google Cloud Platform, while expanding my knowledge of statistics, data modeling, feature engineering, machine learning algorithms, model evaluation, and data-driven experimentation.<br><br>
+
+My AI Engineering journey includes hands-on experience with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Prompt Engineering, vector databases, embeddings, AI workflows, and agentic systems. I actively explore technologies such as Gemini, OpenAI APIs, LangChain, LangGraph, CrewAI, MCP, and modern frameworks for building intelligent applications.<br><br>
+
+I’m also learning the operational side of AI, including MLOps concepts, model deployment, orchestration, monitoring, evaluation frameworks, and scalable AI architectures that connect data platforms with machine learning and generative AI solutions.<br><br>
+
+My technical toolkit currently includes Python, SQL, Spark, Databricks, GCP, BigQuery, Machine Learning, Deep Learning fundamentals, LLMs, RAG, AI Agents, LangChain, LangGraph, CrewAI, MCP, REST APIs, Git, Docker, and BI platforms such as Looker Studio and Power BI.<br><br>
+
+This GitHub documents my continuous learning journey through Data Science, Machine Learning, AI Engineering, cloud technologies, and real-world projects focused on transforming data into intelligent systems.
+</p>
 
 ###
 
